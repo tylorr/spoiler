@@ -7,11 +7,11 @@ everyone
 
 /spoil [This text will be visible] and this text is hidden
 
-[This text will be visible ■■■ ■■■■ ■■■■ ■■ ■■■■■■](https://tylor.io/spoiler/spoil.png)
+![This text will be visible ■■■ ■■■■ ■■■■ ■■ ■■■■■■](https://tylor.io/spoiler/spoil.png)
 
 Pressing the reveal button shows the text only to you
 
-[This text will be visible and this text is hidden](https://tylor.io/spoiler/reveal.png)
+![This text will be visible and this text is hidden](https://tylor.io/spoiler/reveal.png)
 
 ### Manual Installation
 
